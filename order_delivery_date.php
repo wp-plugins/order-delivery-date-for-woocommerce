@@ -18,14 +18,24 @@ add_action('woocommerce_after_checkout_billing_form', 'my_custom_checkout_field'
 
 function my_custom_checkout_field( $checkout ) {	
 
-	print(' <link rel="stylesheet" type="text/css" href="' . plugins_url() . '/order-delivery-date-woo/datepicker.css">				
+    wp_enqueue_script( 'jquery-ui-datepicker' );
+    
+    wp_enqueue_style( 'jquery-ui', "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/smoothness/jquery-ui.css" , '', '', false);
+    wp_enqueue_style( 'datepicker', plugins_url('/css/datepicker.css', __FILE__) , '', '', false);
 
-			<script type="text/javascript" src="' . plugins_url() . '/order-delivery-date-woo/datepicker.js"></script>'
+	/*print(' <link rel="stylesheet" type="text/css" href="' . plugins_url() . '/order-delivery-date-for-woocommerce/datepicker.css">
 
-		);		
+			<script type="text/javascript" src="' . plugins_url() . '/order-delivery-date-for-woocommerce/datepicker.js"></script>'
+		);
+	print('<script type="text/javascript" src="' . plugins_url() . '/order-delivery-date-for-woocommerce/initialize-datepicker.js"></script>');*/
 
-	print('<script type="text/javascript" src="' . plugins_url() . '/order-delivery-date-woo/initialize-datepicker.js"></script>');
-
+	echo '<script language="javascript">jQuery(document).ready(function(){
+	jQuery("#e_deliverydate").width("150px");
+	var formats = ["MM d, yy","MM d, yy"];
+	jQuery("#e_deliverydate").val("").datepicker({dateFormat: formats[1], minDate:1});
+	jQuery("#e_deliverydate").parent().after("<div id=\'order-desc\'><small style=font-size:10px;>We will try our best to deliver your order on the specified date</small></div>");
+});</script>';
+	
 	echo '<div id="my_custom_checkout_field" style="width: 202%; float: left;">';     
 
 	woocommerce_form_field( 'e_deliverydate', array(        

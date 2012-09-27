@@ -12,7 +12,7 @@ Allow the customers to choose an order delivery date on the checkout page for Wo
 
 == Description ==
 
-This plugin will allow the customer to choose an order delivery date on the checkout page. The customer can choose any delivery date that is after the current date. 
+This plugin will allow the customer to choose an order delivery date on the checkout page. The customer can choose any delivery date that is after the current date. The plugin uses the inbuilt datepicker that comes with WordPress.
 
 The delivery date chosen by the customer will be visible to the site administrator while viewing the order under the "Custom Fields" section.
 
