@@ -34,7 +34,7 @@ This plugin allows you to improve your customer service by delivering the order 
 <li>Capture only delivery date or only delivery time or both</li>
 </ol>
 
-**Grab over 30% discount by purchasing before 3rd October 2012. [View Demo](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-wp-e-commerce-woocommerce-pro "View Demo")**
+**Grab over 30% discount by purchasing before 4th October 2012. [View Demo](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-wp-e-commerce-woocommerce-pro "View Demo")**
 
 == Installation ==
 
