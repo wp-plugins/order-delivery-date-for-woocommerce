@@ -20,7 +20,21 @@ This plugin allows you to improve your customer service by delivering the order 
 
 **Pro Version:**
 
-* **[Order Delivery Date Pro](http://www.tychesoftwares.com/store/woocommerce/order-delivery-date-for-woocommerce-pro/ "Order Delivery Date Pro")** - Pro version comes with a settings page that allows you to choose the delivery week days, enter the minimum time interval (in days) required to deliver any order and the number of dates to offer for delivery. These settings enable the site owner to have a better control on the delivery dates presented on the checkout page.
+**[Order Delivery Date Pro 2.0](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-wp-e-commerce-woocommerce-pro "Order Delivery Date Pro")** - Version 2.0 allows the customer to choose a delivery date & time on the checkout page. Date Settings, Time Settings, Appearance & Black-out dates allow the site owner to decide which dates should be made available for delivery. What's new in 2.0?
+<ol>
+<li>Ability to allow the customer to select <strong>Delivery Time along with Delivery Date</strong></li>
+<li><strong>Same-day & Next-day delivery</strong> with cut-off time</li>
+<li>Choose from <strong>24 different themes for the calendar</strong></li>
+<li>Specify the time range available for delivery / pick up</li>
+<li><strong>Add holidays or black-out dates</strong> to the calendar</li>
+<li>Option to <strong>show Delivery Date in Customer Notification Email</strong></li>
+<li>Show 2 months in calendar</li>
+<li>Choose the convenient date format</li>
+<li><strong>Customize field label, field note</strong> text</li>
+<li>Capture only delivery date or only delivery time or both</li>
+</ol>
+
+**Grab over 30% discount by purchasing before 3rd October 2012. [View Demo](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-wp-e-commerce-woocommerce-pro "View Demo")**
 
 == Installation ==
 
@@ -34,11 +48,11 @@ This plugin allows you to improve your customer service by delivering the order 
 
 = Can the customer enter the preferred order delivery time? =
 
-Currently there is no provision for entering the delivery time. This is planned in future release.
+Currently there is no provision for entering the delivery time in the free version. This is possible in the Version 2.0. [View Demo](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-wp-e-commerce-woocommerce-pro "View Demo")
 
 = Is the order delivery date field mandatory on checkout page? =
 
-No. The delivery date field is optional.
+No. The delivery date field is optional in the free version. The field can be configured as Mandatory or optional in the Version 2.0. [View Demo](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-wp-e-commerce-woocommerce-pro "View Demo")
 
 == Screenshots ==
 
