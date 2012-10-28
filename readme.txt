@@ -1,6 +1,6 @@
 === Order Delivery Date for Woocommerce ===
 Contributors: ashokrane
-Tags: delivery date, checkout, order delivery, calendar
+Tags: delivery date, checkout, order delivery, calendar, checkout calendar, datepicker
 Requires at least: 1.3
 Tested up to: 1.6
 Stable tag: trunk
