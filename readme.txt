@@ -20,7 +20,7 @@ This plugin allows you to improve your customer service by delivering the order 
 
 **Pro Version:**
 
-**[Order Delivery Date Pro 2.0](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-wp-e-commerce-woocommerce-pro "Order Delivery Date Pro")** - Version 2.0 allows the customer to choose a delivery date & time on the checkout page. Date Settings, Time Settings, Appearance & Black-out dates allow the site owner to decide which dates should be made available for delivery. What's new in 2.0?
+**[Order Delivery Date Pro 2.1](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "Order Delivery Date Pro")** - Version 2.1 allows the customer to choose a delivery date & time on the checkout page. Date Settings, Time Settings, Appearance & Black-out dates allow the site owner to decide which dates should be made available for delivery. What's new in 2.1?
 <ol>
 <li>Ability to allow the customer to select <strong>Delivery Time along with Delivery Date</strong></li>
 <li><strong>Same-day & Next-day delivery</strong> with cut-off time</li>
@@ -34,7 +34,7 @@ This plugin allows you to improve your customer service by delivering the order 
 <li>Capture only delivery date or only delivery time or both</li>
  </ol>
 
-**Grab over 30% discount by purchasing before 4th October 2012. [View Demo](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-wp-e-commerce-woocommerce-pro "View Demo")**
+**[View Demo](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "View Demo")**
 
 == Installation ==
 
