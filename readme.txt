@@ -24,7 +24,8 @@ This version allows you to select weekdays, specify minimum delivery time and di
 
 **Pro Version:**
 
-**[Order Delivery Date Pro 2.6.6](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "Order Delivery Date Pro")** - Version 2.6.6 allows the customer to choose a delivery date & time on the checkout page. Date Settings, Time Settings, Appearance & Black-out dates allow the site owner to decide which dates should be made available for delivery. What's new in 2.6.6?
+**[Order Delivery Date Pro 2.6.6](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "Order Delivery Date Pro")** - The Pro version allows the customer to choose a delivery date & time on the checkout page. Date Settings, Time Settings, Appearance & Black-out dates allow the site owner to decide which dates should be made available for delivery. Following features are available in PRO version:
+
 <ol>
 <li>Ability to allow the customer to select <strong>Delivery Time along with Delivery Date</strong></li>
 <li><strong>Same-day & Next-day delivery</strong> with cut-off time</li>
