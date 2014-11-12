@@ -18,9 +18,12 @@ The delivery date chosen by the customer will be visible to the site administrat
 
 This plugin allows you to improve your customer service by delivering the order on the customer's specified date.
 
+** Version 1.1 **
+This version allows you to select weekdays, specify minimum delivery time and display number of dates on calendar. The delivery date also shows in a column on Woocommerce > Orders page.
+
 **Pro Version:**
 
-**[Order Delivery Date Pro 2.1](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "Order Delivery Date Pro")** - Version 2.1 allows the customer to choose a delivery date & time on the checkout page. Date Settings, Time Settings, Appearance & Black-out dates allow the site owner to decide which dates should be made available for delivery. What's new in 2.1?
+**[Order Delivery Date Pro 2.6.6](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "Order Delivery Date Pro")** - Version 2.6.6 allows the customer to choose a delivery date & time on the checkout page. Date Settings, Time Settings, Appearance & Black-out dates allow the site owner to decide which dates should be made available for delivery. What's new in 2.6.6?
 <ol>
 <li>Ability to allow the customer to select <strong>Delivery Time along with Delivery Date</strong></li>
 <li><strong>Same-day & Next-day delivery</strong> with cut-off time</li>
@@ -64,3 +67,9 @@ No. The delivery date field is optional in the free version. The field can be co
 
 = 1.0 =
 * Initial release.
+
+= 1.1 =
+* You can set which weekdays you want the delivery service to be available.
+* You can set the Minimum delivery time (in Days). Enter the minimum number of days it takes for you to deliver an order.
+* You can set the number of dates to be available for the customers to choose the delivery date.
+* A column on the Orders page will be created where the delivery date will be displayed.
