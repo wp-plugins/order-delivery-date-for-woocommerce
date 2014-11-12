@@ -65,7 +65,7 @@ No. The delivery date field is optional in the free version. The field can be co
 
 2. The selected delivery date will be shown in "Custom Fields" in Sales Log.
 
-3. Delivery Date will be displayed in a new column on Orders page titled "Delivery Date".
+3. Delivery Date will be displayed on the Orders page in a new column titled "Delivery Date".
 
 == Changelog ==
 
