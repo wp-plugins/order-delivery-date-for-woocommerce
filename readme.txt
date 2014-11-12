@@ -60,9 +60,11 @@ No. The delivery date field is optional in the free version. The field can be co
 
 == Screenshots ==
 
-1. The Delivery date field will be visible on checkout page, with past dates disabled.
+1. The Delivery date field will be visible on checkout page, according to the settings.
 
 2. The selected delivery date will be shown in "Custom Fields" in Sales Log.
+
+3. Delivery Date will be displayed in a new column on Orders page titled "Delivery Date".
 
 == Changelog ==
 
