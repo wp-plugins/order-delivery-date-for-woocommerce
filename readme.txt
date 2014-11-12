@@ -18,7 +18,8 @@ The delivery date chosen by the customer will be visible to the site administrat
 
 This plugin allows you to improve your customer service by delivering the order on the customer's specified date.
 
-** Version 1.1 **
+**Version 1.1**
+
 This version allows you to select weekdays, specify minimum delivery time and display number of dates on calendar. The delivery date also shows in a column on Woocommerce > Orders page.
 
 **Pro Version:**
@@ -65,11 +66,11 @@ No. The delivery date field is optional in the free version. The field can be co
 
 == Changelog ==
 
-= 1.0 =
-* Initial release.
-
 = 1.1 =
 * You can set which weekdays you want the delivery service to be available.
 * You can set the Minimum delivery time (in Days). Enter the minimum number of days it takes for you to deliver an order.
 * You can set the number of dates to be available for the customers to choose the delivery date.
 * A column on the Orders page will be created where the delivery date will be displayed.
+
+= 1.0 =
+* Initial release.
