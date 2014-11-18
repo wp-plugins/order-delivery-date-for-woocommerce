@@ -14,13 +14,11 @@ Allow the customers to choose an order delivery date on the checkout page for Wo
 
 This plugin will allow the customer to choose an order delivery date on the checkout page. The customer can choose any delivery date that is after the current date. The plugin uses the inbuilt datepicker that comes with WordPress.
 
+The plugin allows the site administrator to select delivery weekdays, specify minimum delivery time and display number of dates on calendar. The delivery date also shows in a column on Woocommerce > Orders page.
+
 The delivery date chosen by the customer will be visible to the site administrator while viewing the order under the "Custom Fields" section.
 
 This plugin allows you to improve your customer service by delivering the order on the customer's specified date.
-
-**Version 1.1**
-
-This version allows you to select weekdays, specify minimum delivery time and display number of dates on calendar. The delivery date also shows in a column on Woocommerce > Orders page.
 
 **Pro Version:**
 
@@ -68,6 +66,9 @@ No. The delivery date field is optional in the free version. The field can be co
 3. Delivery Date will be displayed on the Orders page in a new column titled "Delivery Date".
 
 == Changelog ==
+
+= 1.2 =
+* On deactivating the plugin, all the settings were getting reset. This has been fixed. Now on deactivating the plugin, the settings will stay intact.
 
 = 1.1 =
 * You can set which weekdays you want the delivery service to be available.
