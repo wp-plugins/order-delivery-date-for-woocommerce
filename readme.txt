@@ -66,6 +66,11 @@ No. The delivery date field is optional in the free version. The field can be co
 3. Delivery Date will be displayed on the Orders page in a new column titled "Delivery Date".
 
 == Changelog ==
+= 1.3 =
+* The delivery date will be displayed on the My Account page's View Order page.
+* All the settings were getting reset for some customer, this has been fixed.
+* The delivery date will be added to the email notification received by the customer on placing the order.
+* The delivery date is attached to the customer invoice too.
 
 = 1.2 =
 * On deactivating the plugin, all the settings were getting reset. This has been fixed. Now on deactivating the plugin, the settings will stay intact.
