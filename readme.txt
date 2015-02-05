@@ -37,7 +37,7 @@ This plugin allows you to improve your customer service by delivering the order 
 <li>Capture only delivery date or only delivery time or both</li>
  </ol>
 
-**[View Demo](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "View Demo")**
+**[View Demo](https://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "View Demo")**
 
 == Installation ==
 
@@ -51,11 +51,11 @@ This plugin allows you to improve your customer service by delivering the order 
 
 = Can the customer enter the preferred order delivery time? =
 
-Currently there is no provision for entering the delivery time in the free version. This is possible in the Version 2.1. [View Demo](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "View Demo")
+Currently there is no provision for entering the delivery time in the free version. This is possible in the Version 2.1. [View Demo](https://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "View Demo")
 
 = Is the order delivery date field mandatory on checkout page? =
 
-No. The delivery date field is optional in the free version. The field can be configured as Mandatory or optional in the Version 2.1. [View Demo](http://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "View Demo")
+No. The delivery date field is optional in the free version. The field can be configured as Mandatory or optional in the Version 2.1. [View Demo](https://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "View Demo")
 
 == Screenshots ==
 
