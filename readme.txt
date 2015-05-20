@@ -1,5 +1,5 @@
 === Order Delivery Date for Woocommerce ===
-Contributors: ashokrane, MoxaJogani, bhavik.kiri, mansishah, komal-maru
+Contributors: ashokrane, MoxaJogani, bhavik.kiri, mansishah, komal-maru, dharakothari
 Tags: delivery date, checkout, order delivery, calendar, checkout calendar, woocommerce delivery date
 Requires at least: 1.4
 Tested up to: 4.2.2
