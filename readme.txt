@@ -69,6 +69,10 @@ No. The delivery date field is optional in the free version. The field can be co
 
 == Changelog ==
 
+= 1.5 =
+* The plugin fields in admin have been restructured. We are now using the WordPress Settings API for all the plugin fields in admin.
+* We have included .po, .pot and .mo files in the plugin. The plugin strings can now be translated to any language using these files.
+
 = 1.4 =
 * We have added a new setting 'Mandatory field?' in the admin dashboard, which will allow the Delivery Date field to be set as mandatory on the checkout page.
 
