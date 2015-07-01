@@ -57,7 +57,7 @@ Currently there is no provision for entering the delivery time in the free versi
 
 = Is the order delivery date field mandatory on checkout page? =
 
-No. The delivery date field is optional in the free version. The field can be configured as Mandatory or optional in the Pro version. [View Demo](https://www.tychesoftwares.com/store/premium-plugins/order-delivery-date-for-woocommerce-pro-21 "View Demo")
+The field can be configured as Mandatory or optional using the 'Mandatory field?' setting.
 
 == Screenshots ==
 
